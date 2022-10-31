@@ -1,4 +1,4 @@
-package com.qzd.helloworld;
+package com.qzd.helloworld.Controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
